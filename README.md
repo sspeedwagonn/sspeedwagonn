@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">cybersecurity student / civicraft developer / big orange cat owner</p>
+<p align="center">cybersecurity student / civicraft developer / has a big orange cat</p>
 
 ###
 
@@ -32,10 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sspeedwagonn/sspeedwagonn/output/snake.svg" alt="Snake animation" />
-
-###
