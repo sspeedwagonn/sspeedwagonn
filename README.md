@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">cybersecurity student / civicraft developer / has a big orange cat</p>
+<p align="center">cybersecurity graduate / civicraft developer / has a big orange cat</p>
 
 ###
 
